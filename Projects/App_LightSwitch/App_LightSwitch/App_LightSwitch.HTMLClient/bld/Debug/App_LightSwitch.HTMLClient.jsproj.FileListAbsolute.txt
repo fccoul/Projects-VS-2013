@@ -1,0 +1,2 @@
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\App_LightSwitch\App_LightSwitch\App_LightSwitch.HTMLClient\bin\Debug\LSResourceGeneratorsTask.mcs
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\App_LightSwitch\App_LightSwitch\App_LightSwitch.HTMLClient\bin\Debug\LSClientCodeGeneratorsTask.mcs

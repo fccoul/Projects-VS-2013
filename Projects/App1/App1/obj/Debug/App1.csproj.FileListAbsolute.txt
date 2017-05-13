@@ -1,0 +1,14 @@
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\App1\App1\bin\Debug\App1.dll
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\App1\App1\bin\Debug\App1.pdb
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\App1\App1\bin\Debug\App1.dll.mdb
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\App1\App1\bin\Debug\App1.App1.apk
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\App1\App1\bin\Debug\App1.App1-Signed.apk
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\App1\App1\obj\Debug\App1.dll
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\App1\App1\obj\Debug\App1.pdb
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\bin\App1.App1.apk
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\App1\App1\obj\Debug\res\layout\main.xml
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\App1\App1\obj\Debug\res\values\strings.xml
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\App1\App1\obj\Debug\res\drawable\icon.png
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\App1\App1\obj\Debug\R.cs.flag
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\App1\App1\obj\Debug\uploadflags.txt

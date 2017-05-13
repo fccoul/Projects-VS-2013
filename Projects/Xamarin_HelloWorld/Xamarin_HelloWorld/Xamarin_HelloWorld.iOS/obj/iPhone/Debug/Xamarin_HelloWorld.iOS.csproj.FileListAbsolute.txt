@@ -1,0 +1,11 @@
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\Xamarin_HelloWorld\Xamarin_HelloWorld\Xamarin_HelloWorld.iOS\bin\iPhone\Debug\FormsTemplateiOS.exe
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\Xamarin_HelloWorld\Xamarin_HelloWorld\Xamarin_HelloWorld.iOS\bin\iPhone\Debug\FormsTemplateiOS.pdb
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\Xamarin_HelloWorld\Xamarin_HelloWorld\Xamarin_HelloWorld.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\Xamarin_HelloWorld\Xamarin_HelloWorld\Xamarin_HelloWorld.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\Xamarin_HelloWorld\Xamarin_HelloWorld\Xamarin_HelloWorld.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\Xamarin_HelloWorld\Xamarin_HelloWorld\Xamarin_HelloWorld.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\Xamarin_HelloWorld\Xamarin_HelloWorld\Xamarin_HelloWorld.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\Xamarin_HelloWorld\Xamarin_HelloWorld\Xamarin_HelloWorld.iOS\obj\iPhone\Debug\
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\Xamarin_HelloWorld\Xamarin_HelloWorld\Xamarin_HelloWorld.iOS\obj\iPhone\Debug\Xamarin_HelloWorld.iOS.csprojResolveAssemblyReference.cache
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\Xamarin_HelloWorld\Xamarin_HelloWorld\Xamarin_HelloWorld.iOS\obj\iPhone\Debug\FormsTemplateiOS.exe
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\Xamarin_HelloWorld\Xamarin_HelloWorld\Xamarin_HelloWorld.iOS\obj\iPhone\Debug\FormsTemplateiOS.pdb

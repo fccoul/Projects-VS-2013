@@ -1,0 +1,6 @@
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\Bushing_WebSce\ConsApp\bin\Debug\ConsApp.exe.config
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\Bushing_WebSce\ConsApp\bin\Debug\ConsApp.exe
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\Bushing_WebSce\ConsApp\bin\Debug\ConsApp.pdb
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\Bushing_WebSce\ConsApp\obj\Debug\ConsApp.csprojResolveAssemblyReference.cache
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\Bushing_WebSce\ConsApp\obj\Debug\ConsApp.exe
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\Bushing_WebSce\ConsApp\obj\Debug\ConsApp.pdb

@@ -1,0 +1,5 @@
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\PRJ_WebSCe\REST_WebSCe\bin\Debug\REST_WebSCe.dll
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\PRJ_WebSCe\REST_WebSCe\bin\Debug\REST_WebSCe.pdb
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\PRJ_WebSCe\REST_WebSCe\obj\Debug\REST_WebSCe.csprojResolveAssemblyReference.cache
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\PRJ_WebSCe\REST_WebSCe\obj\Debug\REST_WebSCe.dll
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\PRJ_WebSCe\REST_WebSCe\obj\Debug\REST_WebSCe.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingBarCode", "ReadingBarCode\ReadingBarCode.csproj", "{9DECB799-3F34-43F8-9E90-0E87B7C19B48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsApp_BarCode", "ConsApp_BarCode\ConsApp_BarCode.csproj", "{39063B18-7132-41E4-BA9F-B086F7047DE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DECB799-3F34-43F8-9E90-0E87B7C19B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DECB799-3F34-43F8-9E90-0E87B7C19B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DECB799-3F34-43F8-9E90-0E87B7C19B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DECB799-3F34-43F8-9E90-0E87B7C19B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39063B18-7132-41E4-BA9F-B086F7047DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39063B18-7132-41E4-BA9F-B086F7047DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39063B18-7132-41E4-BA9F-B086F7047DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39063B18-7132-41E4-BA9F-B086F7047DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

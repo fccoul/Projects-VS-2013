@@ -1,0 +1,5 @@
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\BarCode\ConsApp_BarCode\bin\Debug\ConsApp_BarCode.exe.config
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\BarCode\ConsApp_BarCode\bin\Debug\ConsApp_BarCode.exe
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\BarCode\ConsApp_BarCode\bin\Debug\ConsApp_BarCode.pdb
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\BarCode\ConsApp_BarCode\obj\Debug\ConsApp_BarCode.exe
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\BarCode\ConsApp_BarCode\obj\Debug\ConsApp_BarCode.pdb

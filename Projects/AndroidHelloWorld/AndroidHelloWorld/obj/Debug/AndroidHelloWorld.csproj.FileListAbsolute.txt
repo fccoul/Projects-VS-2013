@@ -1,0 +1,14 @@
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\AndroidHelloWorld\AndroidHelloWorld\bin\Debug\AndroidHelloWorld.dll
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\AndroidHelloWorld\AndroidHelloWorld\bin\Debug\AndroidHelloWorld.pdb
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\AndroidHelloWorld\AndroidHelloWorld\bin\Debug\AndroidHelloWorld.dll.mdb
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\AndroidHelloWorld\AndroidHelloWorld\bin\Debug\AndroidHelloWorld.AndroidHelloWorld.apk
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\AndroidHelloWorld\AndroidHelloWorld\bin\Debug\AndroidHelloWorld.AndroidHelloWorld-Signed.apk
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\AndroidHelloWorld\AndroidHelloWorld\obj\Debug\AndroidHelloWorld.csprojResolveAssemblyReference.cache
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\AndroidHelloWorld\AndroidHelloWorld\obj\Debug\AndroidHelloWorld.dll
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\AndroidHelloWorld\AndroidHelloWorld\obj\Debug\AndroidHelloWorld.pdb
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\AndroidHelloWorld\AndroidHelloWorld\obj\Debug\android\bin\AndroidHelloWorld.AndroidHelloWorld.apk
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\AndroidHelloWorld\AndroidHelloWorld\obj\Debug\res\layout\main.xml
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\AndroidHelloWorld\AndroidHelloWorld\obj\Debug\res\values\strings.xml
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\AndroidHelloWorld\AndroidHelloWorld\obj\Debug\res\drawable\icon.png
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\AndroidHelloWorld\AndroidHelloWorld\obj\Debug\R.cs.flag
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\AndroidHelloWorld\AndroidHelloWorld\obj\Debug\uploadflags.txt

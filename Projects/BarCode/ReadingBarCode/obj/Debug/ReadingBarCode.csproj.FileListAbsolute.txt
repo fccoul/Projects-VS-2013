@@ -1,0 +1,9 @@
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\BarCode\ReadingBarCode\bin\Debug\ReadingBarCode.exe.config
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\BarCode\ReadingBarCode\bin\Debug\ReadingBarCode.exe
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\BarCode\ReadingBarCode\bin\Debug\ReadingBarCode.pdb
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\BarCode\ReadingBarCode\obj\Debug\ReadingBarCode.csprojResolveAssemblyReference.cache
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\BarCode\ReadingBarCode\obj\Debug\ReadingBarCode.Form1.resources
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\BarCode\ReadingBarCode\obj\Debug\ReadingBarCode.Properties.Resources.resources
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\BarCode\ReadingBarCode\obj\Debug\ReadingBarCode.csproj.GenerateResource.Cache
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\BarCode\ReadingBarCode\obj\Debug\ReadingBarCode.exe
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\BarCode\ReadingBarCode\obj\Debug\ReadingBarCode.pdb

@@ -1,0 +1,6 @@
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\WebApp_Angular\WebApp_Angular\bin\WebApp_Angular.dll.config
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\WebApp_Angular\WebApp_Angular\bin\WebApp_Angular.dll
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\WebApp_Angular\WebApp_Angular\bin\WebApp_Angular.pdb
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\WebApp_Angular\WebApp_Angular\obj\Debug\WebApp_Angular.csprojResolveAssemblyReference.cache
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\WebApp_Angular\WebApp_Angular\obj\Debug\WebApp_Angular.dll
+c:\users\fhcoulibaly\documents\visual studio 2013\Projects\WebApp_Angular\WebApp_Angular\obj\Debug\WebApp_Angular.pdb

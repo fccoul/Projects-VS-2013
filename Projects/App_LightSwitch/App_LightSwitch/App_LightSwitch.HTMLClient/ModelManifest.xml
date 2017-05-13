@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ModelDocumentManifest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Documents>
+    <Document FullPath="c:\users\fhcoulibaly\documents\visual studio 2013\Projects\App_LightSwitch\App_LightSwitch\App_LightSwitch.HTMLClient\Properties\Client.lsml" Checksum="2152D8F2830005E952B6CE3139615CA08AC7B96BEABD978175D036855EF19E07" />
+    <Document FullPath="c:\users\fhcoulibaly\documents\visual studio 2013\Projects\App_LightSwitch\App_LightSwitch\App_LightSwitch.HTMLClient\Properties\Proxies.lsml" Checksum="6FF9DEC7A593B34D71E89167F0FE8DFBB22C090A2A3F8E4957428F0202E3A1D3" />
+  </Documents>
+</ModelDocumentManifest>
