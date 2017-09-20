@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="jquery-1.10.2.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var person = new Object();
+            person.name = "brice";
+            person.surname = "kalou";
+            /* OK
+            $('#save').click(function () {
+                $.ajax({
+                    url: 'http://localhost:51653/person/maj',
+                    type: 'PUT',
+                    dataType: 'json',
+                    data:person,
+                    success:function(data,textStatus,xhr)
+                    {
+                        console.log(data);
+                    },
+                    error:function(xhr,textStatus,errorThrow)
+                    {
+                        console.log('Error in operation : ' +errorThrow);
+                    }
+                });
+            });
+            */
+            /*with full parametres*/
+            $('#save').click(function () {
+                $.ajax({
+                    url: 'http://localhost:51653/person/majcomplex?ID=45',//ID lu depuis fromURI
+                    type: 'PUT',
+                    dataType: 'json',
+                    data: {"":'sigmound freud'},//from body
+                    success: function (data, textStatus, xhr) {
+                        console.log(data);
+                    },
+                    error: function (xhr, textStatus, errorThrow) {
+                        console.log('Error in operation : ' + errorThrow);
+                    }
+                });
+            });
+
+            $('#savePost').click(function () {
+
+                var person = new Object();
+                person.name = $('#name').val();
+                person.surname = $('#surname').val();
+                $.ajax({
+                    url: 'http://localhost:51653/person/insert',
+                    type: 'POST',
+                    dataType: 'json',
+                    data: person,
+                    success: function (data, textStatus, xhr) {
+                        console.log(data);
+                    },
+                    error: function (xhr, textStatus, errorThrow) {
+                        console.log('Error in operation : ' + errorThrow);
+                    }
+                });
+            });
+
+
+            $('#savePost2').click(function () {
+
+                var person = new Object();
+                person.name = $('#name').val();
+                person.surname = $('#surname').val();
+
+                $.post('http://localhost:51653/person/insert', person, function (data) {
+                    console.log(data);
+                });
+
+
+                 
+            });
+
+            //get values 
+            $('#savePostJson').click(function () {
+
+                
+                $.getJSON('http://localhost:51653/person/JSON', function (data) {
+                    console.log(data);
+                });
+
+            });
+            
+        });
+    </script>
+</head>
+<body>
+    <input type="button" id="save" value="save data"/>
+    <br />
+
+    <form id="form1">
+        Name : - <input type="text" name="name" id="name"/>
+        SurName : - <input type="text" name="surname" id="surname" />
+
+        <input type="button" id="savePost" value="save Post" />
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <input type="button" id="savePost2" value="save Post 2" />
+
+        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <input type="button" id="savePostJson" value="Get data JSON" />
+
+    </form>
+    
+</body>
+</html>

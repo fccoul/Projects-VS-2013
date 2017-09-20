@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+
+    <form name="form1" method="post" enctype="multipart/form-data" action="http://localhost:51653/file/upload">
+        <div>
+            <label for="caption">Image Caption</label>
+            <input name="caption" type="text" />
+        </div>
+        <div>
+            <label for="image1">Image File</label>
+            <input name="image1" type="file" />
+        </div>
+        <div>
+
+            <input type="submit" value="submit" />
+        </div>
+    </form>
+
+    <!--Lecture formulaire via form-data-->
+    <!--FormData is a NameValueCollection that contains name/value pairs for the form controls. The collection can contain duplicate keys-->
+    <form name="form2" method="post" enctype="multipart/form-data" action="http://localhost:51653/file/forms">
+        <div>            
+            <input name="trip" type="radio" value="round-trip" /> round-trip
+        </div>
+        <div>
+            <input name="trip" type="radio" value="one-way" /> one-way
+        </div> 
+        <div>
+            <input type="checkbox" name="options" value="non-stop" />Only show non-stop flights
+        </div>
+        <div>
+            <input type="checkbox" name="options" value="airport" />Compare nearby airports
+
+        </div>
+        <div>
+            <input type="checkbox" name="options" value="dates" /> My travel dates are flexible
+        </div>
+        <div>
+            <label for="seat">Seating Preferences</label>
+            <select name="seat">
+                <option value="aisle">Aisle</option>
+                <option value="window">Window</option>
+                <option value="center">Center</option>
+                <option value="none">No preference</option>                   
+            </select>
+        </div>
+
+        <div>
+            <input type="submit" value="send values" />
+        </div>
+    </form>
+
+</body>
+</html>

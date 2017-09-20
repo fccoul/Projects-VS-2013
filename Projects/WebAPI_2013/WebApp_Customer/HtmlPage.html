@@ -1,0 +1,163 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="./jquery-1.10.2.min.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            alert('kpleus !');
+
+
+            $("#idForm").submit(function () {
+
+                console.log("call ajax !");
+
+                var jqxhr = $.post('http://localhost:51653/Update', $('#idForm').serialize())
+                          .success(function () {
+                              var loc = jqxhr.getResponseHeader('Location');
+                              var a = $('<a/>', { href: loc, text: loc });
+                              $('#message').html(a);
+                          })
+                          .error(function () {
+                              $('#message').html("Error posting the update Ajax");
+                          });
+                return false;
+            });
+
+
+            $("#form2").submit(function () {
+
+                console.log("call ajax !");
+
+                var jqxhr = $.post('http://localhost:51653/Update/simple', {"":$('#status1').val()})
+                          .success(function () {
+                              var loc = jqxhr.getResponseHeader('Location');
+                              var a = $('<a/>', { href: loc, text: loc });
+                              $('#messageForm2').html(a);
+                          })
+                          .error(function () {
+                              $('#messageForm2').html("Error posting the update Ajax");
+                          });
+                return false;
+            });
+
+            $("#form3").submit(function () {
+
+                console.log("call ajax !");
+
+                var jqxhr = $.post('http://localhost:51653/Update/simpleArray', { "": [$('#stat').val(), $('#txt1').val(), $('#txt2').val()] })
+                          .success(function () {
+                              var loc = jqxhr.getResponseHeader('Location');
+                              var a = $('<a/>', { href: loc, text: loc });
+                              $('#messageForm3').html(a);
+                          })
+                          .error(function () {
+                              $('#messageForm3').html("Error posting the update Ajax");
+                          });
+                return false;
+            });
+        });
+
+       
+    </script>
+</head>
+<body>
+
+    <!--
+        The default method is GET. If the form uses GET, the form data is encoded in the URI as a query string. If the form uses POST,
+         the form data is placed in the request body. 
+        For POSTed data, the enctype attribute specifies the format of the request body:
+    -->
+    <!--Appel direct sans ajax-->    
+    <!--<form action="http://localhost:51653/Update" method="post"
+           enctype="application/x-www-form-urlencoded">
+       
+        <div>
+            <label>Status</label>
+        </div>
+        <div>
+            <input name="status" type="text" />
+        </div>
+        <div>
+            <label>Date</label 
+        </div>
+        <div>
+            <input name="date" type="text" />
+        </div>
+        <div>
+            <input type="submit" value="submit" />
+        </div>
+    </form>-->
+    <!---->
+
+    <!--Call with Ajax-->
+    <form id="idForm" enctype="application/x-www-form-urlencoded"
+           >
+
+        <div>
+            <label>Status</label>
+        </div>
+        <div>
+            <input name="status" type="text" />
+        </div>
+        <div>
+            <label>Date Publication</label>
+        </div>
+        <div>
+            <input name="date" type="text" />
+        </div>
+        <div>
+            <input type="submit" value="submit" />
+        </div>
+    </form>
+
+    <h3 id="message" />
+    <!---end call ajax-->
+
+    <h1>envoi From Body</h1>
+    <h2>Simple Type</h2>
+    <form id="form2">
+        <div>
+            <label>Status</label>
+        </div>
+        <div>
+            <input id="status1" type="text" />
+        </div>
+        <div>
+            <input type="submit" value="envoi simple value" />
+        </div>
+    </form>
+
+    <h3 id="messageForm2" />
+
+    <h1>envoi From Body Array</h1>
+    <h2>Simple Array  Type</h2>
+    <form id="form3">
+        <div>
+            <label>Status</label>
+        </div>
+        <div>
+            <input id="stat" type="text" />
+        </div>
+        <div>
+            <label>Login</label>
+        </div>
+        <div>
+            <input id="txt1" type="text" />
+        </div>
+        <div>
+            <label>Mot de passe</label>
+        </div>
+        <div>
+            <input id="txt2" type="text" />
+        </div>
+
+        <div>
+            <input type="submit" value="envoi simple Tableau value" />
+        </div>
+    </form>
+
+    <h3 id="messageForm3" />
+</body>
+</html>
