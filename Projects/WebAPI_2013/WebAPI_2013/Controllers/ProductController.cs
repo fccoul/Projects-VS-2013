@@ -9,10 +9,12 @@ using System.Net.Http;
 using System.Web.Http;
 using System.Collections.Concurrent;
 using System.Web.Http.Results;
+using System.Web.Http.Description;
  
 
 namespace WebAPI_2013.Controllers
 {
+    
     //[RoutePrefix("api/products")]
     //[Route("Products")]//possibilite de call directement la methlod eGet via http://localhost:51653/products
     [RoutePrefix("Products")]//utile si on definit des routes au sein des methodes du controller et que l'on veut conserver le emee prefix

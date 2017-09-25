@@ -5,6 +5,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.Http.Description;
 using WebAPI_2013.Models;
 
 namespace WebAPI_2013.Controllers
@@ -22,6 +23,7 @@ namespace WebAPI_2013.Controllers
      * un seul personnalisé qui regroup ces types ou bien passer les autres types , depuis l'URI(fromURI)
 
      * */
+    //[ApiExplorerSettings(IgnoreApi = true)]
     [RoutePrefix("params")]
     public class FromBodyUriController : ApiController
     {
@@ -48,6 +50,7 @@ namespace WebAPI_2013.Controllers
             return _lst.AsQueryable();
         }
 
+        
         [Route("Update/{Id}")]
         public HttpResponseMessage Put(string Id, [FromBody] Product prod)
         {
@@ -69,8 +72,9 @@ namespace WebAPI_2013.Controllers
             return new HttpResponseMessage(HttpStatusCode.NoContent);
         }
 
+       
         [Route("UpdateUri")]
-        public HttpResponseMessage PutUri(string Id,[FromUri] Product prod)
+        public HttpResponseMessage PutUri(string _Id,[FromUri] Product prod)
         {
             if (prod == null)
             {
@@ -88,8 +92,9 @@ namespace WebAPI_2013.Controllers
 
             _products[prod.Id] = prod;
             return new HttpResponseMessage(HttpStatusCode.NoContent);
-        }
+        }//PutUri :bleme ala genration de la doc , comm quoi cle de l'element deja ajouté,renommer les _params 
 
+       // [ApiExplorerSettings(IgnoreApi = true)]
         [Route("UpdateMixed")]
         public HttpResponseMessage PutMixed([FromBody]string Id, [FromUri] Product prod)
         {
@@ -111,6 +116,7 @@ namespace WebAPI_2013.Controllers
             return new HttpResponseMessage(HttpStatusCode.NoContent);
         }
 
+       
         [HttpPut]
         [Route("UpdateComplex1")]
         public IHttpActionResult PutComplex([FromBody] Product prod, [FromUri] Update_J up)
@@ -135,6 +141,7 @@ namespace WebAPI_2013.Controllers
             return Ok(up);
         }
 
+        
         [Route("UpdateComplex2")]//---idem au Updatecomplex1 
         public IHttpActionResult PutComplex2( Product prod, [FromUri] Update_J up)
         {

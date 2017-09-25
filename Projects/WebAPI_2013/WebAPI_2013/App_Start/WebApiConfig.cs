@@ -14,7 +14,8 @@ namespace WebAPI_2013
             // Web API routes
             config.MapHttpAttributeRoutes();
 
-            /* vu que les routes peuvent etes definioes au niveau methode et classe controller , null besoin du template ci-dessous...
+            /* vu que les routes peuvent etes definioes au niveau methode et classe controller , null besoin du template ci-dessous...*/
+            /*
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{id}",
