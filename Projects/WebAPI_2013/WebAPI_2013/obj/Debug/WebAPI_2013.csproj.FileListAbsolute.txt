@@ -30,6 +30,10 @@ C:\Users\fhcoulibaly\documents\visual studio 2013\Projects\WebAPI_2013\WebAPI_20
 C:\Users\fhcoulibaly\documents\visual studio 2013\Projects\WebAPI_2013\WebAPI_2013\obj\Debug\WebAPI_2013.csprojResolveAssemblyReference.cache
 C:\Users\fhcoulibaly\documents\visual studio 2013\Projects\WebAPI_2013\WebAPI_2013\obj\Debug\WebAPI_2013.dll
 C:\Users\fhcoulibaly\documents\visual studio 2013\Projects\WebAPI_2013\WebAPI_2013\obj\Debug\WebAPI_2013.pdb
+F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\xunit.abstractions.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\xunit.runner.visualstudio.testadapter.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\xunit.runner.utility.net35.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\xunit.runner.reporters.net452.dll
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\WebAPI_2013.dll.config
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\WebAPI_2013.dll
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\WebAPI_2013.pdb
@@ -37,6 +41,7 @@ F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\Antlr3.Runtime.dll
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\Microsoft.Web.Infrastructure.dll
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\Newtonsoft.Json.dll
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\System.Net.Http.Formatting.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\System.Runtime.InteropServices.RuntimeInformation.dll
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\System.Web.Helpers.dll
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\System.Web.Http.dll
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\System.Web.Http.WebHost.dll
@@ -47,6 +52,9 @@ F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\System.Web.WebPages.
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\System.Web.WebPages.dll
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\System.Web.WebPages.Razor.dll
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\WebGrease.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\xunit.assert.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\xunit.core.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\xunit.execution.dotnet.dll
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\Newtonsoft.Json.xml
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\System.Net.Http.Formatting.xml
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\System.Web.Helpers.xml
@@ -59,6 +67,13 @@ F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\System.Web.WebPages.
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\System.Web.WebPages.Deployment.xml
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\System.Web.WebPages.Razor.xml
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\Antlr3.Runtime.pdb
-F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\obj\Debug\WebAPI_2013.csprojResolveAssemblyReference.cache
+F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\xunit.assert.xml
+F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\xunit.core.xml
+F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\xunit.execution.dotnet.xml
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\obj\Debug\WebAPI_2013.dll
 F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\obj\Debug\WebAPI_2013.pdb
+F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\Castle.Core.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\Moq.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\Moq.pdb
+F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\bin\Moq.xml
+F:\Application\VS 2013\Projects\WebAPI_2013\WebAPI_2013\obj\Debug\WebAPI_2013.csprojResolveAssemblyReference.cache

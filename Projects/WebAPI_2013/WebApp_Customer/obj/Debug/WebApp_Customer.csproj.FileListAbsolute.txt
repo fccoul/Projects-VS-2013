@@ -4,3 +4,9 @@ C:\Users\fhcoulibaly\documents\visual studio 2013\Projects\WebAPI_2013\WebApp_Cu
 C:\Users\fhcoulibaly\documents\visual studio 2013\Projects\WebAPI_2013\WebApp_Customer\obj\Debug\WebApp_Customer.csprojResolveAssemblyReference.cache
 C:\Users\fhcoulibaly\documents\visual studio 2013\Projects\WebAPI_2013\WebApp_Customer\obj\Debug\WebApp_Customer.dll
 C:\Users\fhcoulibaly\documents\visual studio 2013\Projects\WebAPI_2013\WebApp_Customer\obj\Debug\WebApp_Customer.pdb
+F:\Application\VS 2013\Projects\WebAPI_2013\WebApp_Customer\bin\WebApp_Customer.dll.config
+F:\Application\VS 2013\Projects\WebAPI_2013\WebApp_Customer\bin\WebApp_Customer.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\WebApp_Customer\bin\WebApp_Customer.pdb
+F:\Application\VS 2013\Projects\WebAPI_2013\WebApp_Customer\obj\Debug\WebApp_Customer.csprojResolveAssemblyReference.cache
+F:\Application\VS 2013\Projects\WebAPI_2013\WebApp_Customer\obj\Debug\WebApp_Customer.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\WebApp_Customer\obj\Debug\WebApp_Customer.pdb

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Web.Http;
 
@@ -22,6 +23,7 @@ namespace WebAPI_2013
                 defaults: new { id = RouteParameter.Optional }
             );
             */
+            Debug.WriteLine("executé le : " + DateTime.Now.TimeOfDay.ToString());
         }
     }
 }

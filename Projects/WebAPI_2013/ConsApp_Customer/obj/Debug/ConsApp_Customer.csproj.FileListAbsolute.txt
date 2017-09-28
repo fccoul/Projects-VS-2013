@@ -7,3 +7,47 @@ c:\Users\fhcoulibaly\Documents\Visual Studio 2013\Projects\WebAPI_2013\ConsApp_C
 c:\Users\fhcoulibaly\Documents\Visual Studio 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Net.Http.Formatting.xml
 c:\Users\fhcoulibaly\Documents\Visual Studio 2013\Projects\WebAPI_2013\ConsApp_Customer\obj\Debug\ConsApp_Customer.exe
 c:\Users\fhcoulibaly\Documents\Visual Studio 2013\Projects\WebAPI_2013\ConsApp_Customer\obj\Debug\ConsApp_Customer.pdb
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\ConsApp_Customer.exe.config
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\ConsApp_Customer.exe
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\ConsApp_Customer.pdb
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\Newtonsoft.Json.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Net.Http.Formatting.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\Newtonsoft.Json.xml
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Net.Http.Formatting.xml
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\obj\Debug\ConsApp_Customer.csprojResolveAssemblyReference.cache
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\obj\Debug\ConsApp_Customer.exe
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\obj\Debug\ConsApp_Customer.pdb
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\xunit.abstractions.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\xunit.runner.utility.net35.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\xunit.runner.reporters.net452.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\WebAPI_2013.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Web.Optimization.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Web.Mvc.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Web.Http.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\xunit.core.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Web.Http.WebHost.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\xunit.assert.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Web.Razor.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Web.WebPages.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\WebAPI_2013.pdb
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Web.Optimization.xml
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Web.Mvc.xml
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Web.Http.xml
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\xunit.core.xml
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Web.Http.WebHost.xml
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\xunit.assert.xml
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Web.Razor.xml
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Web.WebPages.xml
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\Moq.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\WebGrease.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\Castle.Core.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\Antlr3.Runtime.dll
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\Moq.pdb
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\Moq.xml
+F:\Application\VS 2013\Projects\WebAPI_2013\ConsApp_Customer\bin\Debug\Antlr3.Runtime.pdb
